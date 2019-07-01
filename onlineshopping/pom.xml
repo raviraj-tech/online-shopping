@@ -15,8 +15,18 @@
   
   
   <dependencies>
-  
+  	
+  	<!-- Link backend project -->
+  	
+  	<dependency>
+  		<groupId>net.ravi.raj</groupId>
+  		<artifactId>shoppingbackend</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	
+  	
   <!-- JAVA EE API -->
+  	
   	<dependency>
   		<groupId>javax</groupId>
   		<artifactId>javaee-api</artifactId>
